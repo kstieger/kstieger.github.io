@@ -1,3 +1,6 @@
+<img src="me.png" align="right" width="200">
+
+
 # Kurt Stieger
 - Software Engineer
 - Linux enthusiast
