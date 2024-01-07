@@ -5,14 +5,9 @@
 - ... with a passion for open source software projects.
 
 ## Contact
-- Monte-Piano-Strasse 20, 6020 Innsbruck, Austria
-- +43 677 61281672
-- kurt@easygo.at
 - [LinkedIn](https://at.linkedin.com/in/kurt-stieger-3884b4a9)
 - [Xing](https://www.xing.com/profile/Kurt_Stieger)
 
-## About me
-- Born: 1972-11-19
 
 ## Currently
 
@@ -68,9 +63,3 @@ In my spare time I like skiing, biking and hiking.
 ## Languages
 - German: native
 - English: good
-
-
-
-
-
-[https://at.linkedin.com/in/kurt-stieger-3884b4a9]: https://at.linkedin.com/in/kurt-stieger-3884b4a9
