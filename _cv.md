@@ -23,6 +23,43 @@ Linux and the super powers it gives you, open source software, programming, elec
 Coding software in Go or Python, with focus on clean code and observability.
 In my spare time I like skiing, biking and hiking.
 
+## Experience
+
+### Software Engineer at PROLICHT GmbH, Götzens
+`2023-08 - present`
+
+### Embeded Software Engineer at Controllino GmbH, Innnsbruck
+`2022-04 - 2023-07`
+
+### Software Escalation Enginer, Barracuda Networks AG, Innsbruck
+`2020-01 - 2022-03`
+
+### Software Quality Assurance Engineer, Barracuda Networks AG, Innsbruck
+`2018-09 - 2019-12`
+
+### IT System Administrator, ESR Labs AG, Munich
+`2017-03 - 2018-08`
+
+### Software Quality Assurance Engineer, Barracuda Networks AG, Innsbruck
+`2013-01 - 2017-02`
+
+### IT Technician, Hotze.com GmbH, Innsbruck
+`2012-10 - 2012-12`
+
+### IT Administrator, Regionalmedien Austria AG, Innsbruck
+`2001-09 - 2012-09`
+
+### DTP Operator, Regionalmedien Austria AG, Innsbruck
+`1999-07 - 2001-08`
+
+### DTP Technician, Konsumgennossenschaft Salzkammergut, Bad Goisern
+`1995-06 - 1999-06`
+
+## Education
+
+### Apprentice retail merchant and first carreer steps, Konsumgennossenschaft Salzkammergut, Bad Goisern
+`1988-07 - 1999-06`
+
 ## Skills
 `Automation` | `Go` | `Python` | `Linux` | `Git` | `Docker` | `Bash` | `HTML` | `CSS` | `JavaScript` | `Vue.js` | `React` | `SQL` | `PostgreSQL` | `MySQL` | `MongoDB` | `RabbitMQ` | `NATS` | `REST` | `HAProxy` | `Gitlab` | `Ansible` | `Podman` | `Ruby` | `KVM` | `SNMP` | `Networking` | `Routing` | `Scrum` | `WireGuard`
 
